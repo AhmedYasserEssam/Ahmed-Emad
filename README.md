@@ -1,4 +1,4 @@
-# About Me:
+# Hi, I'm Ahmed 👋
 I'm a second-year undergraduate passionate about data science, machine learning, and turning raw data into actionable insights. Currently honing my skills in Python, SQL, and data analysis, with hands-on projects in data visualization and predictive modeling.<br>I’m actively exploring real-world datasets, participating in coding challenges, and building a solid foundation in statistics, algorithms, and big data tools. My goal is to solve meaningful problems using data and contribute to impactful projects in tech and beyond.
 
 
